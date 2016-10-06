@@ -1,4 +1,18 @@
-// var numbers =[];
+// var numbers = [];
+//
+// // pingPongFunction = function(input) {
+// //   for (i = 0; i <= userValue; i++) {
+// //     if ((i % 3) === 0) {
+// //       numbers.push("ping");
+// //     } else if ((i % 5) ===0) {
+// //       numbers.push("pong");
+// //     } else if ((i % 15) === 0) {
+// //       numbers.push("pingpong");
+// //     } else {
+// //       alert("Please enter a number!");
+// //     }
+// //   }
+// // }
 
 
 $(document).ready(function() {
@@ -7,28 +21,15 @@ $(document).ready(function() {
 
     var userInput = $("input#userValue").val();
 
-    $("#result").text(userInput);
+// I have the user input value, I need to make this into an array where all of the array is returned.
+
+    var newUserInput = userInput.toString() + " ";
+
+    $("#result").text(newUserInput);
     $("#result").show();
 
   });
 });
-
-//
-// Ping: (userInput % 3 === 0)
-// Pong: (userInput % 5 === 0)
-// PingPong: (userInput % 15 === 0)
-
-// for (i = 0; i <= userValue; i++) {
-//   if ((i % 3) === 0) {
-//     push("ping");
-//   } else if ((i % 5) ===0) {
-//     push("pong");
-//   } else if ((i % 15) === 0) {
-//     push("pingpong");
-//   } else {
-//     alert("Please enter a number!");
-//   }
-// }
 
 // Make the output a string
 

@@ -34,7 +34,7 @@ This program recognizes numbers divisible by 5 and replaces them with pong.
 * Input: 10
 * Output: [1, 2, ping, 4, pong, ping, 7, 8, ping, pong]
 
-This program recognizes numbers divisible by 5 and replaces them with pong.
+This program recognizes numbers divisible by 15 and replaces them with pong.
 * Input: 15
 * Output: [1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong]
 
