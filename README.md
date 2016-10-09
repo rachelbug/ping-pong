@@ -1,6 +1,6 @@
 # _Ping Pong_
 
-#### _Quiz, September 25, 2016_
+#### _Ping Pong Game, October 8, 2016_
 
 #### By _**Rachel A. Etnire**_
 
