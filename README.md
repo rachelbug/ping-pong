@@ -6,6 +6,8 @@
 
 ## Description
 
+_https://rachelbug.github.io/ping-pong/_
+
 _This is a quiz you can take to find out what the most ideal vacation spot for your personality is.  Take the quiz and a suggestion will appear.  You can access this page by clicking the following [link](https://rachelbug.github.io/tropical-vacations/)._
 
 ## Setup/Installation Requirements
