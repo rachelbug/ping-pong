@@ -6,7 +6,7 @@
 
 ## Description
 
-_https://github.com/rachelbug/ping-pong_
+_https://rachelbug.github.io/ping-pong/_
 
 _This is a ping pong logic game.  Please see the specs for more details!_
 
