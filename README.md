@@ -8,7 +8,7 @@
 
 _https://github.com/rachelbug/ping-pong_
 
-_This is a ping pong logic game.  Please see the specs for more details! _
+_This is a ping pong logic game.  Please see the specs for more details!_
 
 ## Setup/Installation Requirements
 
